@@ -25377,7 +25377,6 @@ INDUCTOR POWER 3.3UH 4.0A SMD&lt;br&gt;
 <text x="13.716" y="186.436" size="2.54" layer="97">USB-UART</text>
 <text x="148.336" y="155.956" size="2.54" layer="97">Voltage Regulator</text>
 <text x="16.256" y="28.956" size="2.54" layer="97">Battery Connector</text>
-<text x="17.78" y="68.58" size="1.778" layer="97">VBAT: 2.0 - 5.5 V</text>
 <text x="12.7" y="38.1" size="1.778" layer="97">JST Connector</text>
 <wire x1="101.6" y1="86.36" x2="238.76" y2="86.36" width="0.1524" layer="97" style="longdash"/>
 <wire x1="238.76" y1="86.36" x2="330.2" y2="86.36" width="0.1524" layer="97" style="longdash"/>
