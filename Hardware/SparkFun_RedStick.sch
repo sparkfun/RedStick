@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.1.0">
+<eagle version="7.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -152,7 +152,7 @@
 <layer number="254" name="cooling" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="255" name="routoute" color="7" fill="1" visible="no" active="yes"/>
 </layers>
-<schematic xreflabel="%F%N/%S" xrefpart="1_/%S.%C%R">
+<schematic xreflabel="%F%N/%S" xrefpart="/%S.%C%R">
 <libraries>
 <library name="SparkFun-Aesthetics">
 <description>&lt;h3&gt;SparkFun Electronics' preferred foot prints&lt;/h3&gt;
@@ -25394,8 +25394,6 @@ INDUCTOR POWER 3.3UH 4.0A SMD&lt;br&gt;
 <text x="219.456" y="31.496" size="2.54" layer="97">Game Port</text>
 <wire x1="431.8" y1="86.36" x2="330.2" y2="86.36" width="0.1524" layer="97" style="longdash"/>
 <wire x1="0" y1="86.36" x2="101.6" y2="86.36" width="0.1524" layer="97" style="longdash"/>
-<text x="13.716" y="186.436" size="2.54" layer="97">USB-UART</text>
-<text x="148.336" y="155.956" size="2.54" layer="97">Voltage Regulator</text>
 <text x="16.256" y="28.956" size="2.54" layer="97">Battery Connector</text>
 <text x="12.7" y="38.1" size="1.778" layer="97">JST Connector</text>
 <wire x1="101.6" y1="86.36" x2="238.76" y2="86.36" width="0.1524" layer="97" style="longdash"/>
@@ -26277,6 +26275,9 @@ INDUCTOR POWER 3.3UH 4.0A SMD&lt;br&gt;
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="202,1,175.26,129.54,U4,NC,,,,"/>
+</errors>
 </schematic>
 </drawing>
 </eagle>
