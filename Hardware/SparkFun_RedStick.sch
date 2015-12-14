@@ -25345,7 +25345,7 @@ INDUCTOR POWER 3.3UH 4.0A SMD&lt;br&gt;
 <part name="R6" library="SparkFun-Resistors" deviceset="1KOHM-1/10W-1%(0603)" device="" value="1K"/>
 <part name="JP3" library="SparkFun-Connectors" deviceset="M12" device="NO_SILK" value="DNP"/>
 <part name="FRAME2" library="SparkFun-Aesthetics" deviceset="FRAME-LEDGER" device=""/>
-<part name="U4" library="SparkFun-PowerIC" deviceset="V_REG_NCP1400" device="_5V" value="5.0v"/>
+<part name="U3" library="SparkFun-PowerIC" deviceset="V_REG_NCP1400" device="_5V" value="5.0v"/>
 <part name="D4" library="SparkFun-DiscreteSemi" deviceset="DIODE-SCHOTTKY" device="-MBRA140" value="MBRA140"/>
 <part name="C9" library="SparkFun-Capacitors" deviceset="10UF-16V-10%(TANT)" device="" value="10uF"/>
 <part name="C10" library="SparkFun-Capacitors" deviceset="68UF-10V-10%(TANT)" device="" value="68uF"/>
@@ -25482,7 +25482,7 @@ INDUCTOR POWER 3.3UH 4.0A SMD&lt;br&gt;
 <instance part="JP3" gate="G$1" x="187.96" y="45.72" rot="R180"/>
 <instance part="FRAME2" gate="G$1" x="0" y="0"/>
 <instance part="FRAME2" gate="G$2" x="330.2" y="0"/>
-<instance part="U4" gate="G$1" x="167.64" y="132.08" rot="MR0"/>
+<instance part="U3" gate="G$1" x="167.64" y="132.08" rot="MR0"/>
 <instance part="D4" gate="G$1" x="167.64" y="144.78" smashed="yes">
 <attribute name="NAME" x="165.1" y="150.3426" size="1.778" layer="95"/>
 <attribute name="VALUE" x="165.1" y="147.5486" size="1.778" layer="96"/>
@@ -25649,7 +25649,7 @@ INDUCTOR POWER 3.3UH 4.0A SMD&lt;br&gt;
 <segment>
 <wire x1="157.48" y1="129.54" x2="154.94" y2="129.54" width="0.1524" layer="91"/>
 <wire x1="154.94" y1="129.54" x2="154.94" y2="111.76" width="0.1524" layer="91"/>
-<pinref part="U4" gate="G$1" pin="GND"/>
+<pinref part="U3" gate="G$1" pin="GND"/>
 <pinref part="GND4" gate="1" pin="GND"/>
 </segment>
 <segment>
@@ -26114,7 +26114,7 @@ INDUCTOR POWER 3.3UH 4.0A SMD&lt;br&gt;
 <wire x1="154.94" y1="144.78" x2="165.1" y2="144.78" width="0.1524" layer="91"/>
 <wire x1="149.86" y1="137.16" x2="154.94" y2="137.16" width="0.1524" layer="91"/>
 <junction x="154.94" y="137.16"/>
-<pinref part="U4" gate="G$1" pin="LX"/>
+<pinref part="U3" gate="G$1" pin="LX"/>
 <pinref part="D4" gate="G$1" pin="A"/>
 <pinref part="L1" gate="G$1" pin="2"/>
 </segment>
@@ -26145,8 +26145,8 @@ INDUCTOR POWER 3.3UH 4.0A SMD&lt;br&gt;
 <wire x1="187.96" y1="137.16" x2="200.66" y2="137.16" width="0.1524" layer="91"/>
 <junction x="177.8" y="134.62"/>
 <junction x="187.96" y="137.16"/>
-<pinref part="U4" gate="G$1" pin="EN"/>
-<pinref part="U4" gate="G$1" pin="OUT"/>
+<pinref part="U3" gate="G$1" pin="EN"/>
+<pinref part="U3" gate="G$1" pin="OUT"/>
 <pinref part="C10" gate="G$1" pin="+"/>
 <pinref part="C3" gate="G$1" pin="1"/>
 <wire x1="200.66" y1="137.16" x2="200.66" y2="129.54" width="0.1524" layer="91"/>
@@ -26276,7 +26276,7 @@ INDUCTOR POWER 3.3UH 4.0A SMD&lt;br&gt;
 </sheet>
 </sheets>
 <errors>
-<approved hash="202,1,175.26,129.54,U4,NC,,,,"/>
+<approved hash="202,1,175.26,129.54,U3,NC,,,,"/>
 </errors>
 </schematic>
 </drawing>
