@@ -1,7 +1,7 @@
-SparkFun <PRODUCT NAME>
+SparkFun RedStick
 ========================================
 
-![SparkFun Part Name](URL for picture of part)
+-> [![alt text](https://cdn.sparkfun.com/r/600-600/assets/learn_tutorials/4/2/2/RedStick-01_action.jpg)](https://cdn.sparkfun.com/assets/learn_tutorials/4/2/2/RedStick-01_action.jpg) <-
 
 [*SparkFun RedStick (DEV-13741)*](https://www.sparkfun.com/products/13741)
 
