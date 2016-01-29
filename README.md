@@ -32,7 +32,7 @@ Product Versions
 
 Version History
 ---------------
-* [V1.0](https://github.com/sparkfun/RedStick/tree/V_1_0) - Product release version
+* [V_1.0](https://github.com/sparkfun/RedStick/tree/V_1_0) - Product release version
 
 License Information
 -------------------
