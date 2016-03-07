@@ -1,7 +1,7 @@
 SparkFun RedStick
 ========================================
 
-[![alt text](https://cdn.sparkfun.com/r/600-600/assets/learn_tutorials/4/2/2/RedStick-01_action.jpg)](https://cdn.sparkfun.com/assets/learn_tutorials/4/2/2/RedStick-01_action.jpg)
+![SparkFun RedStick](https://cdn.sparkfun.com/assets/parts/1/1/2/5/8/13741-01.jpg)
 
 [*SparkFun RedStick (DEV-13741)*](https://www.sparkfun.com/products/13741)
 
@@ -15,20 +15,15 @@ Repository Contents
 * **/Documentation** - Data sheets, additional product information
 * **/Hardware** - Eagle design files (.brd, .sch)
 * **/Production** - Production panel files (.brd)
-* **/Software** - Related software for the <PRODUCT NAME>
+* **/Software** - Related software for the RedStick
 
 Documentation
 --------------
-* **[Library](GitHub library URL)** - <LANGUAGE> library for the <PRODUCT NAME>.
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the <PRODUCT NAME>.
+* **[LED Array Library](https://github.com/sparkfun/SparkFun_LED_Array_8x7_Arduino_Library)** - Arduino LED Array library for the RedStick.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/redstick-hookup-guide)** - Basic hookup guide for the RedStick.
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
 
-Product Versions
-----------------
-* [Part SKU](part URL)- Basic part and short description here
-* [Retail part SKU] (retail URL)- Retail packaging of standard description here
-* [Any other parts this repo covers](any other URLs) - Description of said parts
 
 Version History
 ---------------
@@ -47,4 +42,4 @@ Distributed as-is; no warranty is given.
 
 - Your friends at SparkFun.
 
-_<COLLABORATION CREDIT>_
+

@@ -57,6 +57,7 @@ local.properties
 # Ignore the board and schematic backup files
 *.b#?
 *.s#?
+*.l#?
 
 
 #################
@@ -157,6 +158,21 @@ Desktop.ini
 
 
 #############
+## Mac OS
+#############
+
+.DS_Store
+
+
+#############
+## Linux
+#############
+
+# backup files (*.bak on Win)
+*~
+
+
+#############
 ## Python
 #############
 
@@ -187,6 +203,3 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
-
-# Mac crap
-.DS_Store
